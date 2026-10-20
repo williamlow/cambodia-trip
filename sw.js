@@ -1,5 +1,5 @@
 'use strict';
-const CACHE='cambodia-guide-v1';
+const CACHE='cambodia-guide-v2';
 const FILES=['./','./index.html','./styles.css','./trip.js','./itinerary.md','./icon.svg'];
 self.addEventListener('install',event=>{event.waitUntil(caches.open(CACHE).then(c=>c.addAll(FILES)).then(()=>self.skipWaiting()));});
 self.addEventListener('activate',event=>{event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k.startsWith('cambodia-guide-')&&k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim()));});

@@ -4,7 +4,7 @@
 
 Planned itinerary, not live location or confirmed arrival status. The spreadsheet names October but no year; 2026 is assumed from the trip context.
 
-Dates, hotel names and flight / bus details: Cambodia trip.xlsx. Booking status has not been verified except Osoam is explicitly unbooked and the final Battambang hotel is undecided.
+Dates, hotel names and flight / bus details: Cambodia trip.xlsx. Your later update selects VV for both Battambang nights: leave spare luggage on 20 October and collect it on 24 October. Other booking status has not been verified; Osoam is explicitly unbooked.
 
 Route: MotoTom article text supplied by the traveller. The detailed plan has four riding days; some paragraphs call it five. Daily distances total 555–580 km versus the article’s approximate 500–600 km summary. Waypoint ordering on days 2 and 4 is inconsistent; confirm the actual GPS track with MotoTom.
 
@@ -33,7 +33,7 @@ No flight time or airport is supplied. Use your ticket, not this suggested sched
 ## 2026-10-20: Across the water to Battambang
 
 **Sleep:** VV · Battambang
-**Status:** Name as written in sheet · exact property to confirm
+**Status:** VV for both Battambang nights · per your update
 **Transport/distance:** Boat transfer
 **Time allowance:** Allow 6–9+ hours (riding and boat times are estimates)
 
@@ -41,15 +41,16 @@ Angkor Express slow boat from Siem Reap to Battambang (written “Angkhor Expres
 
 - **Operator time:** Boat departure and hotel pickup: confirm directly. No departure time appears in the sheet.
 - **Daytime:** Travel with water, lunch or snacks, sun protection and a dry bag. The 6–9+ hour allowance is provisional, not an operator timetable.
-- **After arrival:** Check in at VV. If time allows, meet MotoTom for bike fit, luggage setup, route briefing and the offline GPS track.
+- **After arrival:** Check in at VV and arrange to leave spare luggage here for collection on 24 October. Agree storage and collection details with reception. If time allows, meet MotoTom for bike fit, luggage setup, route briefing and the offline GPS track.
 - **Evening:** Confirm the first riding day and Family Bat Cave stay; agree a family check-in routine.
 
 **Before setting off:**
 
+- Separate riding essentials from the luggage staying at VV; keep the storage receipt or tag.
 - Confirm fuel range, rental return time, support contact and deposit.
 - Check helmet, tyres, brakes, lights and rain gear with the rental team.
 
-“VV” is ambiguous. Use the property details on your booking; the map search is not a verified hotel pin.
+Return to the same VV hotel on 24 October to collect stored luggage. Use your booking details for the exact address; the map search is not a verified hotel pin.
 
 ## 2026-10-21: Temples, reservoir & the bat-cave sunset
 
@@ -60,7 +61,7 @@ Angkor Express slow boat from Siem Reap to Battambang (written “Angkhor Expres
 
 Battambang → Banan → Kamping Pouy → Phnom Sampov. A countryside loop with a hilltop temple, a reservoir stop, and the bats as the evening finale.
 
-- **08:00:** Suggested departure after breakfast and bike checks. Ride toward Banan Temple; allow roughly 1–1½ hours on site, including the climb and a cold drink.
+- **08:00:** Suggested departure after breakfast and bike checks. Leave the stored luggage at VV and carry what you need for the riding loop. Ride toward Banan Temple; allow roughly 1–1½ hours on site, including the climb and a cold drink.
 - **11:30:** Suggested lunch and a break around Kamping Pouy Reservoir. Follow the operator’s backroad track rather than the shortest road route.
 - **15:00:** Aim to reach the Phnom Sampov area with time to check in and explore the hill, pagoda and viewpoints. The killing caves are a sensitive historical stop; optional.
 - **17:15:** Be at the bat-viewing area before dusk. MotoTom suggests the exodus is typically around 18:00–19:00; ask locally that day and arrive early.
@@ -120,8 +121,8 @@ Google’s overview does not include the exact Phnom 1500 turn-around. The GPS t
 
 ## 2026-10-24: Canal roads & a loop completed
 
-**Sleep:** VV or ClassyVV · Battambang
-**Status:** Undecided · confirm hotel and exact property
+**Sleep:** VV · Battambang
+**Status:** Same hotel as 20 October · per your update
 **Transport/distance:** ~140 km · article
 **Time allowance:** 4–5½ h moving · allow 7–9 h out (riding and boat times are estimates)
 
@@ -131,11 +132,11 @@ Pursat → the Moung Russei / Koas Krala countryside → Battambang. The article
 - **Morning:** Market drink or snack near Moung Russei, then follow the operator’s route toward the Koas Krala backroads. The article’s route heading lists these in the opposite order to its prose.
 - **Midday:** Optional Phnom Thippadei golden Buddha stop. Lunch and fuel; only add the Banan / bamboo-train detour if the return deadline allows.
 - **By 16:00:** Target Battambang arrival and bike return, or an earlier time if MotoTom requires it. Allow time for fuel, inspection and deposit arrangements.
-- **Evening:** Check in, enjoy a riverside dinner and confirm the bus pickup and flight connection. Phare is an optional evening idea only after checking the show schedule.
+- **Evening:** Return to VV, check in and collect the luggage left here on 20 October. Repack for tomorrow, enjoy a riverside dinner and confirm the bus pickup and flight connection. Phare is an optional evening idea only after checking the show schedule.
 
 **Before setting off:**
 
-- Choose VV or ClassyVV and confirm the actual hotel name.
+- Collect stored luggage from VV and check everything is ready for tomorrow’s bus.
 - Resolve the bus destination, airport transfer, flight time and check-in cutoff tonight.
 
 Day 4’s waypoint order is inconsistent in the article. The map deliberately shows the main endpoints only; use MotoTom’s track for the rural loop.
