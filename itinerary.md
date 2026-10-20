@@ -180,6 +180,12 @@ Bike rental is $8/day, confirmed by the traveller. Other amounts are estimates i
 
 Includes accommodation and rental even if already paid. Excludes flights, insurance, deposits and the final airport transfer. Carry small USD notes and riel for Osoam.
 
+### Cash to carry: 21–24 October
+
+Aim to leave Battambang with about **$400 equivalent in cash**. Allow roughly $130–265 for three nights away (21–23 October), four days of meals, fuel and small expenses, plus $32 bike hire if unpaid and a $100 reserve.
+
+The VV stay on 24 October and any bike deposit are extra. You can deduct accommodation or bike hire already paid. Bring small USD notes and riel; don’t rely on cash withdrawals in Osoam.
+
 ## Overnight stops
 
 The website summary lists planned overnight stops for sharing. It does not track location.

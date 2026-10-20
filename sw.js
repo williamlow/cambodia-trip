@@ -1,5 +1,5 @@
 'use strict';
-const CACHE='cambodia-guide-v7';
+const CACHE='cambodia-guide-v8';
 const FILES=['./','./index.html','./styles.css','./trip.js','./itinerary.md','./icon.svg','./vendor/leaflet/leaflet.js','./vendor/leaflet/leaflet.css','./vendor/leaflet/images/layers.png','./vendor/leaflet/images/layers-2x.png','./vendor/leaflet/images/marker-icon.png','./vendor/leaflet/images/marker-icon-2x.png','./vendor/leaflet/images/marker-shadow.png'];
 self.addEventListener('install',event=>{event.waitUntil(caches.open(CACHE).then(c=>c.addAll(FILES)).then(()=>self.skipWaiting()));});
 self.addEventListener('activate',event=>{event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k.startsWith('cambodia-guide-')&&k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim()));});

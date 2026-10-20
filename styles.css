@@ -76,3 +76,9 @@ body{background:#edf1ed}
 .day-map .leaflet-control-zoom a{color:var(--ink)}
 @media(max-width:640px){.day-map-frame{height:300px}}
 @media print{.day-map-frame{height:auto;border:0}.day-map-canvas,.day-map-status{display:none!important}.day-map-frame .day-map-fallback{position:static;display:block!important}.day-map-fallback svg{max-height:160px}}
+
+.cash-plan{max-width:750px;margin:1.5rem 0 0;padding:1.25rem;border:1px solid #6a7e6b;border-radius:4px;background:#ffffff0a}
+.cash-plan h3{margin-bottom:.7rem}
+.cash-plan p{font-size:.85rem;margin-bottom:.7rem}
+.cash-plan p:last-child{margin:0;color:#d0dbcb;font-size:.78rem}
+@media print{.cash-plan{background:white;border-color:#b4c5b6;break-inside:avoid}.cash-plan p:last-child{color:#425c4b}}
