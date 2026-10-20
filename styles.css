@@ -10,3 +10,23 @@
 .family-bottom{display:flex;flex-wrap:wrap;align-items:center}.family-bottom #share-status{flex-basis:100%}
 
 .itinerary{padding-top:1.5rem}.itinerary h1{font-size:clamp(2.25rem,4vw,3.4rem);margin:0 0 1.5rem}.simple-budget{max-width:750px}.budget-final th,.budget-final td{border-top:2px solid var(--ink);font-size:1rem;color:var(--ink);text-transform:none;letter-spacing:0}.budget-note{max-width:750px;margin:1rem 0 0}@media(max-width:640px){.itinerary{padding-top:1.25rem}.itinerary .section-intro{margin-bottom:.75rem}}
+
+/* Shared trip sections are visually separate from the selected-day tabs. */
+body{background:#edf1ed}
+.page-heading{background:var(--paper);padding:1.5rem 2.5rem}
+.page-heading h1{font-size:clamp(2.25rem,4vw,3.4rem);margin:0}
+.page-heading .eyebrow{margin-bottom:.7rem}
+.section{border-bottom:0}
+.section + .section{border-top:12px solid #edf1ed}
+.route-section{background:#e5edf0;padding-top:2rem;padding-bottom:2rem}
+.itinerary{background:var(--white);padding-top:2rem}
+.itinerary .day-tabs{background:#e4ece5;border:1px solid #b4c5b6;border-radius:6px 6px 0 0;padding:.65rem;margin-bottom:0}
+.itinerary .day-tab{background:var(--white)}
+.itinerary .day-tab[aria-pressed=true]{background:var(--ink)}
+.itinerary #day-detail{border:1px solid #b4c5b6;border-top:0;border-radius:0 0 6px 6px;overflow:hidden}
+.itinerary #day-detail .day-panel{border:0;border-radius:0}
+.itinerary .day-aside{background:#f0f3e9}
+.budget-section{background:#f1e9db}
+.sources{background:#e8ede9}
+@media(max-width:640px){.page-heading{padding:1.25rem 1.2rem}.route-section,.itinerary{padding-top:1.5rem;padding-bottom:1.5rem}.itinerary .day-tabs{padding:.4rem;gap:.25rem}.itinerary .day-tab{padding:.6rem .1rem}.itinerary .section-intro{margin-bottom:1rem}}
+@media print{body,.page-heading,.route-section,.itinerary,.budget-section,.sources{background:white}.page-heading{padding:0 0 1rem}.page-heading h1{font-size:28pt}.section+.section{border-top:1px solid var(--line)}.route-section,.itinerary{padding:1.5rem 0}}
