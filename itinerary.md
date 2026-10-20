@@ -1,12 +1,12 @@
-# Cambodia, one road at a time
+# Cambodia itinerary
 
 ## 19–25 October 2026 · Cambodia time (UTC+7)
 
-Planned itinerary, not live location or confirmed arrival status. The spreadsheet names October but no year; 2026 is assumed from the trip context.
+Planned stops, not live location. The spreadsheet gives October without a year; 2026 is assumed from the trip context.
 
-Dates, hotel names and flight / bus details: Cambodia trip.xlsx. Your later update selects VV for both Battambang nights: leave spare luggage on 20 October and collect it on 24 October. Other booking status has not been verified; Osoam is explicitly unbooked.
+Dates and travel details come from Cambodia trip.xlsx and your updates. Route, accommodation and onward-travel arrangements are sorted. Stay at VV on 20 and 24 October, leaving luggage there during the riding loop.
 
-Route: MotoTom article text supplied by the traveller. The detailed plan has four riding days; some paragraphs call it five. Daily distances total 555–580 km versus the article’s approximate 500–600 km summary. Waypoint ordering on days 2 and 4 is inconsistent; confirm the actual GPS track with MotoTom.
+Route distances come from the MotoTom article you supplied. Its four daily stages total 555–580 km. Follow the arranged GPS track for navigation.
 
 Source: https://www.mototomcambodia.com/newsvideos/5-day-self-guided-motorbike-from-battambang-trails-twisty-roads-amp-the-cardamoms
 
@@ -23,7 +23,7 @@ Bangkok to Siem Reap on FD614, then an easy evening before the slow boat. The sp
 - **After arrival:** Transfer to Ibis Styles. Confirm the Angkor Express pickup, pier and departure time for tomorrow.
 - **Evening:** Dinner, water and snacks for the boat. Keep sun protection and a light rain layer accessible.
 
-**Before setting off:**
+**Notes:**
 
 - Confirm tomorrow’s boat is operating and which pier it uses.
 - Save hotel and boat contacts offline.
@@ -42,9 +42,9 @@ Angkor Express slow boat from Siem Reap to Battambang (written “Angkhor Expres
 - **Operator time:** Boat departure and hotel pickup: confirm directly. No departure time appears in the sheet.
 - **Daytime:** Travel with water, lunch or snacks, sun protection and a dry bag. The 6–9+ hour allowance is provisional, not an operator timetable.
 - **After arrival:** Check in at VV and arrange to leave spare luggage here for collection on 24 October. Agree storage and collection details with reception. If time allows, meet MotoTom for bike fit, luggage setup, route briefing and the offline GPS track.
-- **Evening:** Confirm the first riding day and Family Bat Cave stay; agree a family check-in routine.
+- **Evening:** Review tomorrow’s route and pack for the riding loop.
 
-**Before setting off:**
+**Notes:**
 
 - Separate riding essentials from the luggage staying at VV; keep the storage receipt or tag.
 - Confirm fuel range, rental return time, support contact and deposit.
@@ -65,9 +65,9 @@ Battambang → Banan → Kamping Pouy → Phnom Sampov. A countryside loop with 
 - **11:30:** Suggested lunch and a break around Kamping Pouy Reservoir. Follow the operator’s backroad track rather than the shortest road route.
 - **15:00:** Aim to reach the Phnom Sampov area with time to check in and explore the hill, pagoda and viewpoints. The killing caves are a sensitive historical stop; optional.
 - **17:15:** Be at the bat-viewing area before dusk. MotoTom suggests the exodus is typically around 18:00–19:00; ask locally that day and arrive early.
-- **After bats:** Dinner and a short, pre-planned transfer to the stay. Avoid an unfamiliar long ride after dark; message family when settled.
+- **After bats:** Dinner and a short, pre-planned transfer to the stay. Avoid an unfamiliar long ride after dark.
 
-**Before setting off:**
+**Notes:**
 
 - Confirm whether Family Bat Cave is the Batcave Family Homestay referenced in the article.
 - Bring water for the temple steps; keep belongings away from monkeys.
@@ -77,21 +77,21 @@ The bat emergence varies with light and weather. The suggested 17:15 arrival is 
 ## 2026-10-22: Into the Cardamoms
 
 **Sleep:** Osoam Cardamom Community Cambodia · Osoam
-**Status:** Not booked · confirm before departure
+**Status:** Stay arrangements sorted
 **Transport/distance:** ~170 km · article
 **Time allowance:** 5–7 h moving · allow 8–10 h out (riding and boat times are estimates)
 
 From the Phnom Sampov area into the Pailin / Samlout countryside and on to Osoam. MotoTom describes mixed surfaces, light dirt and winding roads into the forested hills.
 
-- **07:00:** Suggested early start after confirming the Osoam bed, meals and access. Fill up, carry drinking water and packed food, and send the route plan home.
-- **Morning:** Follow MotoTom’s track through the Pailin / Samlout area. The article’s headings and prose do not give a consistent waypoint order: resolve this at the briefing.
+- **07:00:** Suggested early start. Fill up and carry drinking water and packed food.
+- **Morning:** Follow the arranged GPS track through the Pailin / Samlout area.
 - **Midday:** Lunch and a conditions check. Pailin’s hilltop pagoda or Blue Mountain Elephant Head Waterfall are optional only if the verified track, weather and daylight allow.
 - **By 16:30:** Target arrival in Osoam with daylight spare. Stop for fuel when available; don’t assume the next small settlement has it.
-- **Evening:** Check in and message family when signal is available. Ask about tomorrow’s road conditions and breakfast.
+- **Evening:** Check in. Ask about tomorrow’s road conditions and breakfast.
 
-**Before setting off:**
+**Notes:**
 
-- Get the exact GPS track and current access advice from MotoTom.
+- Save the arranged GPS track offline and check current road conditions.
 - October rain can make easy dirt slippery or muddy; ask for the paved alternative.
 - Confirm offline maps, repair support, fuel range and a backup stay before leaving.
 
@@ -112,7 +112,7 @@ Osoam → Pramaoy → the Phnom 1500 / Road 55 viewpoint detour → Pursat. Moto
 - **By 16:30:** Aim to reach Pursat Happy Homestay in daylight; confirm its exact address with the host.
 - **Evening:** An easy riverfront stroll and dinner, then confirm tomorrow’s return route and bike drop-off.
 
-**Before setting off:**
+**Notes:**
 
 - Confirm whether the article’s 150 km includes the full viewpoint detour.
 - Save the host’s actual location; the map uses a name search.
@@ -129,39 +129,39 @@ Google’s overview does not include the exact Phnom 1500 turn-around. The GPS t
 Pursat → the Moung Russei / Koas Krala countryside → Battambang. The article suggests canal backroads, the golden Buddha at Phnom Thippadei, and an optional return through Banan.
 
 - **08:00:** Suggested start after checking road conditions and the rental return deadline. Keep a paved option if yesterday’s rain has made canal trails muddy.
-- **Morning:** Market drink or snack near Moung Russei, then follow the operator’s route toward the Koas Krala backroads. The article’s route heading lists these in the opposite order to its prose.
+- **Morning:** Stop near Moung Russei for a drink or snack, then follow the GPS track toward the Koas Krala backroads.
 - **Midday:** Optional Phnom Thippadei golden Buddha stop. Lunch and fuel; only add the Banan / bamboo-train detour if the return deadline allows.
 - **By 16:00:** Target Battambang arrival and bike return, or an earlier time if MotoTom requires it. Allow time for fuel, inspection and deposit arrangements.
-- **Evening:** Return to VV, check in and collect the luggage left here on 20 October. Repack for tomorrow, enjoy a riverside dinner and confirm the bus pickup and flight connection. Phare is an optional evening idea only after checking the show schedule.
+- **Evening:** Return to VV, check in and collect the luggage left here on 20 October. Repack for tomorrow, enjoy a riverside dinner and review the bus pickup and flight details. Phare is an optional evening idea only after checking the show schedule.
 
-**Before setting off:**
+**Notes:**
 
 - Collect stored luggage from VV and check everything is ready for tomorrow’s bus.
-- Resolve the bus destination, airport transfer, flight time and check-in cutoff tonight.
+- Keep the bus ticket, transfer and flight details ready for tomorrow.
 
-Day 4’s waypoint order is inconsistent in the article. The map deliberately shows the main endpoints only; use MotoTom’s track for the rural loop.
+The map shows the main endpoints. Use MotoTom’s GPS track for the rural loop.
 
 ## 2026-10-25: Bus, airport & back to Bangkok
 
 **Sleep:** No overnight stay listed · No Cambodia stay listed
-**Status:** Confirm connection details
+**Status:** Connection arrangements sorted
 **Transport/distance:** Bus + flight FD615
 **Time allowance:** Bus 08:30–11:30 · from sheet (riding and boat times are estimates)
 
-Giant Ibis bus 08:30–11:30, then FD615 back to Bangkok. The spreadsheet does not specify the bus destination, airport or flight time, so the connection cannot yet be checked.
+Giant Ibis bus 08:30–11:30, then FD615 back to Bangkok. Connection arrangements are sorted. Use your tickets for the destination, airport and flight time.
 
 - **07:45:** Suggested ready-at-pickup time, subject to the operator’s instructions. Reconfirm the pickup location and whether hotel collection is included.
 - **08:30:** Giant Ibis bus departure (from sheet). Use the ticket for the exact route and station.
 - **11:30:** Bus arrival time (from sheet). Build in road-delay time, the onward airport transfer and the airline’s check-in deadline.
-- **Ticket time:** FD615 to Bangkok (from sheet). Confirm the departure airport and terminal; the flight number alone is not enough to plan a safe connection.
+- **Ticket time:** FD615 to Bangkok (from sheet). Follow your ticket for the airport, terminal, departure time and check-in deadline.
 
-**Before setting off:**
+**Notes:**
 
-- Check bus ticket destination and scheduled arrival location.
-- Check flight date, airport, departure time and airline check-in cutoff.
+- Keep bus and airport-transfer details accessible.
+- Keep flight details and travel documents accessible.
 - For planning, aim to reach the correct airport about 3 hours before an international flight; follow the airline’s actual instructions.
 
-The airport transfer is not costed: the bus destination and flight airport are unknown. Add the confirmed transfer quote to the budget. Do not assume an 11:30 bus arrival means arrival at the airport.
+The airport-transfer fare is not included in this budget. Add your agreed fare separately; 11:30 is the bus arrival time, not the airport arrival time.
 
 ## Budget assumptions · one person
 
@@ -179,10 +179,11 @@ Broad planning allowances prepared 20 October 2026, not live quotes or prices fr
 
 Confirm rental inclusions, prepaid bookings and local quotes. Carry small, clean USD and riel; do not rely on an ATM or card in Osoam.
 
-## Family check-ins
 
-These are plans, not confirmed positions. Message family before departure and after arrival. Agree an overdue-message contact plan before going out of signal. The website does not send alerts.
+## Overnight stops
 
-## Connection still to confirm
+The website summary lists planned overnight stops for sharing. It does not track location.
 
-25 October: Giant Ibis 08:30–11:30 and flight FD615 to Bangkok appear in the sheet. The bus destination, flight airport and flight time are missing. Verify those before judging the connection. Plan to reach the correct airport about 3 hours before an international flight, subject to airline guidance.
+## Onward travel
+
+25 October: Giant Ibis 08:30–11:30, then flight FD615 to Bangkok. Arrangements are sorted; use your tickets for the destination, airport and flight times. The airport-transfer fare is additional to the estimated budget.

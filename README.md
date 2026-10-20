@@ -1,4 +1,4 @@
-# Cambodia / On two wheels
+# Cambodia itinerary
 
 A mobile-friendly itinerary for 19–25 October 2026, built from the traveller's spreadsheet and supplied MotoTom article text. Plain HTML, CSS and JavaScript; no build step or package dependencies.
 
