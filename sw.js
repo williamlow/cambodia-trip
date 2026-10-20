@@ -1,0 +1,7 @@
+'use strict';
+const CACHE='cambodia-guide-v1';
+const FILES=['./','./index.html','./styles.css','./trip.js','./itinerary.md','./icon.svg'];
+self.addEventListener('install',event=>{event.waitUntil(caches.open(CACHE).then(c=>c.addAll(FILES)).then(()=>self.skipWaiting()));});
+self.addEventListener('activate',event=>{event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k.startsWith('cambodia-guide-')&&k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim()));});
+self.addEventListener('fetch',event=>{if(event.request.method!=='GET'||new URL(event.request.url).origin!==self.location.origin)return;event.respondWith(fetch(event.request).then(response=>{if(response.ok){const copy=response.clone();event.waitUntil(caches.open(CACHE).then(c=>c.put(event.request,copy)));}return response;}).catch(()=>caches.match(event.request).then(cached=>cached||(event.request.mode==='navigate'?caches.match('./index.html'):Response.error()))));});
+self.addEventListener('message',event=>{if(event.data?.type==='CACHE_STATUS')event.waitUntil(caches.open(CACHE).then(async c=>{const entries=await Promise.all(FILES.map(f=>c.match(f)));if(entries.every(Boolean))event.source?.postMessage({type:'CACHE_READY'});}));});
