@@ -163,22 +163,22 @@ Giant Ibis bus 08:30–11:30, then FD615 back to Bangkok. Connection arrangement
 
 The airport-transfer fare is not included in this budget. Add your agreed fare separately; 11:30 is the bus arrival time, not the airport arrival time.
 
-## Budget assumptions · one person
+## Budget · one person, 19–25 October
 
-Broad planning allowances prepared 20 October 2026, not live quotes or prices from the spreadsheet. All amounts USD.
+Bike rental is $8/day, confirmed by the traveller. Other amounts are estimates in USD.
 
-- Accommodation: 19 Oct $25–45; 20 Oct $20–40; 21 Oct $15–30; 22 Oct $12–25; 23 Oct $15–30; 24 Oct $20–45.
-- Food: $12–22 per day (7 days).
-- Fuel: $5–12 per riding day (4 days).
-- Water and small extras: $4–10 per day (7 days).
-- Arrival transfer allowance: $10–20; boat $25–40; bus $12–20.
-- Bike hire default allowance: $25/day × 4 riding days = $100; confirm the actual bike, rate and included services.
-- Add 20% contingency. Default total: $464–801 before prepaid-cost deductions.
-- Excludes flights, deposits, insurance and the unquoted 25 October airport transfer.
-- Remote 22–23 October allowance: $119–243 including both stays, food, fuel, extras and a separate $50–100 reserve; unpaid bike hire is additional.
+| Cost | USD |
+| --- | ---: |
+| Accommodation · 6 nights | $107–215 |
+| Food · 7 days | $84–154 |
+| Bike hire · 4 days × $8 | $32 |
+| Fuel · 4 riding days | $20–48 |
+| Boat, bus and arrival transfer | $47–80 |
+| Water and small extras | $28–70 |
+| Contingency · 20% | $64–120 |
+| **Total** | **$382–719** |
 
-Confirm rental inclusions, prepaid bookings and local quotes. Carry small, clean USD and riel; do not rely on an ATM or card in Osoam.
-
+Includes accommodation and rental even if already paid. Excludes flights, insurance, deposits and the final airport transfer. Carry small USD notes and riel for Osoam.
 
 ## Overnight stops
 

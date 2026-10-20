@@ -8,3 +8,5 @@
 .source-actions{display:flex;align-items:center;gap:1.5rem;flex-wrap:wrap}.source-actions>a{font-size:.8rem}@media print{.source-actions{display:none}}
 
 .family-bottom{display:flex;flex-wrap:wrap;align-items:center}.family-bottom #share-status{flex-basis:100%}
+
+.itinerary{padding-top:1.5rem}.itinerary h1{font-size:clamp(2.25rem,4vw,3.4rem);margin:0 0 1.5rem}.simple-budget{max-width:750px}.budget-final th,.budget-final td{border-top:2px solid var(--ink);font-size:1rem;color:var(--ink);text-transform:none;letter-spacing:0}.budget-note{max-width:750px;margin:1rem 0 0}@media(max-width:640px){.itinerary{padding-top:1.25rem}.itinerary .section-intro{margin-bottom:.75rem}}

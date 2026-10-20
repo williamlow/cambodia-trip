@@ -11,17 +11,17 @@ cd /workspace/cambodia-trip
 python3 -m http.server 8000
 ```
 
-- `trip.js`: dates, stays, day schedules, estimates, map points, budget logic, checklist and sharing.
+- `trip.js`: dates, stays, day schedules, estimates, map points, daily cost allowances and sharing.
 - `index.html`: page structure, source notes and illustrated route map.
 - `styles.css`: responsive screen and print layouts.
 - `itinerary.md`: lightweight fallback; keep it in sync with the day data.
 - `sw.js`: same-origin offline cache. Bump its cache version after releases that change the guide's files. External map links need connectivity.
 
-Booking status and arrival status are not inferred from the calendar. The family section shows plans, not tracking. Cost estimates are explicit assumptions; bike hire can be edited or excluded and prepaid accommodation can be excluded. Checklist state is stored locally on the current browser only. No credentials, booking references or source spreadsheet are published.
+Booking status and arrival status are not inferred from the calendar. The family section shows plans, not tracking. The budget is a fixed whole-trip estimate using confirmed bike hire of $8/day for four days. Daily allowances include hire on riding days. No credentials, booking references or source spreadsheet are published.
 
 ## Validate
 
-Run `node --check trip.js`, `node --check sw.js`, and `git diff --check`. Serve locally, then check all seven date buttons, budget controls, checklist persistence/reset, sharing fallback, mobile layout, print output and offline reload. Functional checks use Python Playwright with system Chromium in the cloud; neither is required to serve the site.
+Run `node --check trip.js`, `node --check sw.js`, and `git diff --check`. Serve locally, then check all seven date buttons, daily cost allowances, the budget table, sharing fallback, mobile layout, print output and offline reload. Functional checks use Python Playwright with system Chromium in the cloud; neither is required to serve the site.
 
 ## Publish
 
