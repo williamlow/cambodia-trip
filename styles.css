@@ -39,7 +39,7 @@ body{background:#edf1ed}
 .day-map-heading{display:flex;justify-content:space-between;align-items:baseline;gap:1rem;margin-bottom:.7rem}
 .day-map-heading .aside-label{margin:0}
 .day-map-heading a{font-size:.75rem}
-.day-map svg{display:block;width:100%;height:auto;max-height:260px;border:1px solid #ccd8d8;border-radius:4px;background:#e5edf0}
+.day-map-fallback svg{display:block;width:100%;height:auto;max-height:260px;border:1px solid #ccd8d8;border-radius:4px;background:#e5edf0}
 .day-map-stops{list-style:none;padding:0;margin:.8rem 0;display:flex;flex-wrap:wrap;gap:.5rem 1.1rem}
 .day-map-stops li{display:flex;align-items:center;gap:.4rem;font-size:.75rem}
 .day-map-stops span{display:inline-grid;place-items:center;width:1.2rem;height:1.2rem;border-radius:50%;background:var(--ink);color:var(--white);font-size:.65rem;flex-shrink:0}
@@ -59,4 +59,20 @@ body{background:#edf1ed}
 .sources .source-grid p,.sources .small{color:#d0dbcb}
 .sources .button{background:var(--paper);color:var(--ink)}
 @media(max-width:640px){.page-heading{padding:2rem 1.2rem}.day-map{padding:1rem 1.2rem}.day-map-heading{align-items:flex-start}.day-map-heading a{max-width:50%;text-align:right}.budget-section{margin-top:1rem}}
-@media print{.page-heading{padding:1rem 0 1.5rem}.day-map{padding:1rem;break-inside:avoid}.day-map svg{max-height:160px}.budget-section,.family-section,.sources{background:white;color:#172e25;margin-top:0}.budget-section .eyebrow,.budget-section .section-intro,.budget-section .muted,.budget-section th,.budget-section .budget-final td,.budget-section .budget-final th,.sources .eyebrow,.sources .source-grid p,.sources .small{color:#425c4b}.budget-section{border-top:1px solid var(--line)!important}}
+@media print{.page-heading{padding:1rem 0 1.5rem}.day-map{padding:1rem;break-inside:avoid}.day-map-fallback svg{max-height:160px}.budget-section,.family-section,.sources{background:white;color:#172e25;margin-top:0}.budget-section .eyebrow,.budget-section .section-intro,.budget-section .muted,.budget-section th,.budget-section .budget-final td,.budget-section .budget-final th,.sources .eyebrow,.sources .source-grid p,.sources .small{color:#425c4b}.budget-section{border-top:1px solid var(--line)!important}}
+
+/* Live geographic basemap, with the local diagram retained for offline/print use. */
+.day-map-frame{position:relative;height:360px;isolation:isolate;border:1px solid #ccd8d8;border-radius:4px;overflow:hidden;background:#e5edf0}
+.day-map-canvas{position:absolute;inset:0;z-index:1;font-family:inherit}
+.day-map-frame:not(.has-basemap) .day-map-canvas{visibility:hidden}
+.day-map-fallback{position:absolute;inset:0;display:flex;align-items:center}
+.day-map-fallback svg{border:0}
+.day-map-frame.has-basemap .day-map-fallback{display:none}
+.day-map-status{position:absolute;left:.6rem;right:.6rem;bottom:.6rem;z-index:2;background:#fffef9ee;padding:.5rem .65rem;border-radius:3px;color:var(--ink);font-size:.72rem;margin:0}
+.day-map-status[hidden]{display:none}
+.day-map-marker span{display:grid;place-items:center;width:28px;height:28px;border-radius:50%;background:var(--ink);color:var(--white);border:2px solid white;font-size:13px;font-weight:750;box-shadow:0 1px 4px #0004}
+.day-map .leaflet-control-attribution{font-size:10px}
+.day-map .leaflet-control-attribution a{color:#254a62}
+.day-map .leaflet-control-zoom a{color:var(--ink)}
+@media(max-width:640px){.day-map-frame{height:300px}}
+@media print{.day-map-frame{height:auto;border:0}.day-map-canvas,.day-map-status{display:none!important}.day-map-frame .day-map-fallback{position:static;display:block!important}.day-map-fallback svg{max-height:160px}}

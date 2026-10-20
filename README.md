@@ -1,6 +1,6 @@
 # Cambodia itinerary
 
-A mobile-friendly itinerary for 19–25 October 2026, built from the traveller's spreadsheet and supplied MotoTom article text. Plain HTML, CSS and JavaScript; no build step or package dependencies.
+A mobile-friendly itinerary for 19–25 October 2026, built from the traveller's spreadsheet and supplied MotoTom article text. Plain HTML, CSS and JavaScript; no build step. Leaflet 1.9.4 is vendored locally with its BSD-2-Clause license.
 
 ## Develop
 
@@ -29,4 +29,4 @@ GitHub Pages: **Settings → Pages → Deploy from a branch → main → / (root
 
 ## Sources and caveats
 
-Dates, named stays, flight numbers, boat operator and bus times come from `Cambodia trip.xlsx`. The sheet has no year; 2026 is an explicit assumption from the current trip context. Route distances and attractions come from the MotoTom article pasted by the traveller; durations and USD allowances are planning estimates. The source has inconsistent four/five-day language and waypoint ordering; the operator's actual GPS track remains necessary for navigation. The overview SVG and individual daily maps are schematic connections of approximate town coordinates, not road traces. The daily maps are included in print and offline views. Map links show road overviews or property-name searches, not verified tracks or hotel pins.
+Dates, named stays, flight numbers, boat operator and bus times come from `Cambodia trip.xlsx`. The sheet has no year; 2026 is an explicit assumption from the current trip context. Route distances and attractions come from the MotoTom article pasted by the traveller; durations and USD allowances are planning estimates. The source has inconsistent four/five-day language and waypoint ordering; the operator's actual GPS track remains necessary for navigation. The overview SVG is a schematic connection of approximate town coordinates. Daily maps use Leaflet with standard OpenStreetMap road-map tiles and attribution; numbered stops and dashed connecting lines are approximate, not GPS tracks. Only the selected day requests tiles. Tile images use normal browser caching and are not prefetched or stored by our service worker. Online map backgrounds require internet. Local diagrams remain available offline, on tile errors, and in print. Map links show road overviews or property-name searches, not verified tracks or hotel pins.
