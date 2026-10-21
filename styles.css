@@ -82,3 +82,29 @@ body{background:#edf1ed}
 .cash-plan p{font-size:.85rem;margin-bottom:.7rem}
 .cash-plan p:last-child{margin:0;color:#d0dbcb;font-size:.78rem}
 @media print{.cash-plan{background:white;border-color:#b4c5b6;break-inside:avoid}.cash-plan p:last-child{color:#425c4b}}
+
+.phrases-section{background:var(--ink);color:var(--paper)}
+.phrases-section .eyebrow{color:#e5b790}
+.phrases-section .section-intro,.phrase-audio-note{color:#d0dbcb}
+.phrase-audio-note{font-size:.8rem;margin-bottom:1.5rem}
+.phrase-grid{display:grid;grid-template-columns:1fr 1fr;gap:.8rem}
+.phrase-card{display:flex;justify-content:space-between;align-items:flex-start;gap:1rem;border:1px solid #6a7e6b;border-radius:4px;padding:1.2rem;background:#ffffff08}
+.phrase-card h3{font-size:.9rem;margin:0 0 .65rem}
+.phrase-khmer{font-family:"Noto Sans Khmer","Khmer OS",system-ui,sans-serif;font-size:1.55rem;line-height:1.8;margin:0 0 .25rem}
+.phrase-pronunciation{color:#f1d4ad;font-size:.9rem;margin:0}
+.phrase-note{font-size:.72rem;color:#d0dbcb;margin:.5rem 0 0}
+.phrase-audio{font-size:.75rem;white-space:nowrap;padding:.5rem .65rem;border:1px solid #8fa58f;border-radius:3px;text-decoration:none;flex-shrink:0;min-height:44px;display:inline-flex;align-items:center}
+.phrase-audio:hover{background:#ffffff15}
+.phrase-audio:focus-visible{outline-color:#e5b790}
+.phrase-audio-status{display:flex;align-items:center;gap:1rem;flex-wrap:wrap;margin-top:1rem}
+.phrase-audio-status p{margin:0;color:#d0dbcb}
+.phrases-section .button{background:var(--paper);color:var(--ink)}
+#stop-phrase-audio[hidden]{display:none}
+.sources{background:var(--paper);color:var(--ink)}
+.sources .eyebrow{color:var(--orange)}
+.sources .source-grid p,.sources .small{color:var(--muted)}
+.sources .button{background:var(--ink);color:var(--paper)}
+@media(max-width:640px){.phrase-grid{grid-template-columns:1fr}.phrase-card{padding:1rem}.phrase-khmer{font-size:1.4rem}}
+@media print{.phrases-section,.sources{background:white;color:#172e25}.phrases-section .eyebrow,.phrases-section .section-intro,.phrase-pronunciation,.phrase-note{color:#425c4b}.phrase-card{background:white;border-color:#b4c5b6;break-inside:avoid}.phrase-audio,.phrase-audio-note,.phrase-audio-status{display:none}.phrase-grid{grid-template-columns:1fr 1fr}.phrase-khmer{font-size:15pt}.phrase-card{padding:.75rem}}
+
+.phrase-card>div{min-width:0}.phrase-khmer{overflow-wrap:anywhere}

@@ -6,6 +6,8 @@ Planned stops, not live location. The spreadsheet gives October without a year; 
 
 Dates and travel details come from Cambodia trip.xlsx and your updates. Route, accommodation and onward-travel arrangements are sorted. Stay at VV on 20 and 24 October, leaving luggage there during the riding loop.
 
+Bike rental: https://maps.app.goo.gl/bV3FKkms1bh98Zvr9 ($8/day). MotoTom supplies the itinerary only.
+
 Route distances come from the MotoTom article you supplied. Its four daily stages total 555–580 km. Follow the arranged GPS track for navigation.
 
 Source: https://www.mototomcambodia.com/newsvideos/5-day-self-guided-motorbike-from-battambang-trails-twisty-roads-amp-the-cardamoms
@@ -41,7 +43,7 @@ Angkor Express slow boat from Siem Reap to Battambang (written “Angkhor Expres
 
 - **Operator time:** Boat departure and hotel pickup: confirm directly. No departure time appears in the sheet.
 - **Daytime:** Travel with water, lunch or snacks, sun protection and a dry bag. The 6–9+ hour allowance is provisional, not an operator timetable.
-- **After arrival:** Check in at VV and arrange to leave spare luggage here for collection on 24 October. Agree storage and collection details with reception. If time allows, meet MotoTom for bike fit, luggage setup, route briefing and the offline GPS track.
+- **After arrival:** Check in at VV and arrange to leave spare luggage here for collection on 24 October. Agree storage and collection details with reception. Collect the bike from your Battambang rental shop and check bike fit, luggage setup and return arrangements.
 - **Evening:** Review tomorrow’s route and pack for the riding loop.
 
 **Notes:**
@@ -95,7 +97,7 @@ From the Phnom Sampov area into the Pailin / Samlout countryside and on to Osoam
 - October rain can make easy dirt slippery or muddy; ask for the paved alternative.
 - Confirm offline maps, repair support, fuel range and a backup stay before leaving.
 
-The ~170 km is the article’s estimate, not a verified track measurement. If the actual route is longer or conditions deteriorate, shorten optional stops and agree a safe alternative with MotoTom.
+The ~170 km is the article’s estimate, not a verified track measurement. If the actual route is longer or conditions deteriorate, shorten optional stops and check a suitable alternative with your rental shop or host.
 
 ## 2026-10-23: Road 55 curves, then the lowlands
 
@@ -131,7 +133,7 @@ Pursat → the Moung Russei / Koas Krala countryside → Battambang. The article
 - **08:00:** Suggested start after checking road conditions and the rental return deadline. Keep a paved option if yesterday’s rain has made canal trails muddy.
 - **Morning:** Stop near Moung Russei for a drink or snack, then follow the GPS track toward the Koas Krala backroads.
 - **Midday:** Optional Phnom Thippadei golden Buddha stop. Lunch and fuel; only add the Banan / bamboo-train detour if the return deadline allows.
-- **By 16:00:** Target Battambang arrival and bike return, or an earlier time if MotoTom requires it. Allow time for fuel, inspection and deposit arrangements.
+- **By 16:00:** Target Battambang arrival and bike return, or earlier if required by your rental shop. Allow time for fuel, inspection and deposit arrangements.
 - **Evening:** Return to VV, check in and collect the luggage left here on 20 October. Repack for tomorrow, enjoy a riverside dinner and review the bus pickup and flight details. Phare is an optional evening idea only after checking the show schedule.
 
 **Notes:**
@@ -139,7 +141,7 @@ Pursat → the Moung Russei / Koas Krala countryside → Battambang. The article
 - Collect stored luggage from VV and check everything is ready for tomorrow’s bus.
 - Keep the bus ticket, transfer and flight details ready for tomorrow.
 
-The map shows the main endpoints. Use MotoTom’s GPS track for the rural loop.
+The map shows the main endpoints. Use your GPS track for the rural loop.
 
 ## 2026-10-25: Bus, airport & back to Bangkok
 
@@ -193,3 +195,24 @@ The website summary lists planned overnight stops for sharing. It does not track
 ## Onward travel
 
 25 October: Giant Ibis 08:30–11:30, then flight FD615 to Bangkok. Arrangements are sorted; use your tickets for the destination, airport and flight times. The airport-transfer fare is additional to the estimated budget.
+
+## Khmer phrases
+
+Pronunciations are approximate English guides. Audio links on the website use a device Khmer voice where available, or open Google Translate online.
+
+| English | Khmer | Pronunciation |
+| --- | --- | --- |
+| Hello | សួស្តី | soo-uh s’day |
+| Hello (polite) | ជម្រាបសួរ | chum ree-up soo-uh |
+| Thank you | អរគុណ | aw-kun |
+| Goodbye | លាហើយ | lee-uh haoy |
+| Please | សូម | sohm |
+| Sorry / excuse me | សុំទោស | sohm toh |
+| Yes (male speaker) | បាទ | baat |
+| Yes (female speaker) | ចាស | jah |
+| No | ទេ | tay |
+| How much? | ថ្លៃប៉ុន្មាន? | tlai pon-maan? |
+| Water | ទឹក | teuk |
+| Where is the toilet? | បង្គន់នៅឯណា? | bong-kun now ai-naa? |
+| I don’t understand | ខ្ញុំមិនយល់ទេ | kh’nyom min yul tay |
+| Please help me | សូមជួយខ្ញុំ | sohm choo-ey kh’nyom |

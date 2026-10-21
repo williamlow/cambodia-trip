@@ -11,6 +11,7 @@ cd /workspace/cambodia-trip
 python3 -m http.server 8000
 ```
 
+- `phrases.js`: Khmer device speech when available, with Google Translate listening links as the fallback. No English voice is substituted for Khmer.
 - `trip.js`: dates, stays, day schedules, estimates, map points, daily cost allowances and sharing.
 - `index.html`: page structure, source notes and illustrated route map.
 - `styles.css`: responsive screen and print layouts.
@@ -30,3 +31,5 @@ GitHub Pages: **Settings → Pages → Deploy from a branch → main → / (root
 ## Sources and caveats
 
 Dates, named stays, flight numbers, boat operator and bus times come from `Cambodia trip.xlsx`. The sheet has no year; 2026 is an explicit assumption from the current trip context. Route distances and attractions come from the MotoTom article pasted by the traveller; durations and USD allowances are planning estimates. The source has inconsistent four/five-day language and waypoint ordering; the operator's actual GPS track remains necessary for navigation. The overview SVG is a schematic connection of approximate town coordinates. Daily maps use Leaflet with standard OpenStreetMap road-map tiles and attribution; numbered stops and dashed connecting lines are approximate, not GPS tracks. Only the selected day requests tiles. Tile images use normal browser caching and are not prefetched or stored by our service worker. Online map backgrounds require internet. Local diagrams remain available offline, on tile errors, and in print. Map links show road overviews or property-name searches, not verified tracks or hotel pins.
+
+Bike rental is from the traveller’s Google Maps pin, not MotoTom. MotoTom remains the itinerary source. The Khmer phrase guide uses approximate English phonetics and works as written text offline; audio availability depends on a device Khmer voice or an online Google Translate visit. No recorded audio files are bundled.
